@@ -39,8 +39,8 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-backend-folder>
+   git clone <https://github.com/Akash-1305/TaskManagerGoLangStack.git>
+   cd <server>
    ```
 
 2. Install dependencies:
@@ -67,7 +67,7 @@ Ensure you have the following installed on your machine:
 1. Navigate to the frontend directory:
 
    ```bash
-   cd <your-frontend-folder>
+   cd <client>
    ```
 
 2. Install dependencies:
@@ -129,12 +129,6 @@ Ensure MongoDB is running and properly configured. Update the `DB_URI` environme
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🤝 Contributions
 
 Contributions are welcome! 🎉 If you'd like to contribute:
@@ -153,7 +147,7 @@ Feel free to **report issues** or suggest improvements!
 
 🐞 If you encounter any issues, feel free to **open an issue** in the GitHub repository.
 
-📩 For any queries, you can reach out via email: [support@example.com](mailto:support@example.com)
+📩 For any queries, you can reach out via email: [akash20050513@gmail.com](mailto:support@example.com)
 
 ---
 
